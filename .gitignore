@@ -43,3 +43,17 @@ Thumbs.db
 # claude & local development
 .claude/
 .github/
+
+
+# deps
+/node_modules
+/.pnp
+.pnp.js
+
+# next
+/.next/
+/out/
+
+
+# supabase
+/.supabase
