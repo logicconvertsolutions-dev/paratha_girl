@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc *)",
+      "Bash(claude mcp *)",
+      "mcp__magic__21st_magic_component_refiner",
+      "Bash(mkdir -p \"d:/Projects/ParataGirl/paratha-girl/paratha-girl/public/images\")",
+      "Bash(curl -sL -o hero-paratha.jpg \"https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=1600&q=90&fit=crop\")",
+      "Bash(curl -sL -o product-butter.jpg \"https://images.unsplash.com/photo-1601050690597-df0568f70950?w=900&q=90&fit=crop\")",
+      "Bash(curl -sL -o product-aloo.jpg   \"https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=900&q=90&fit=crop\")",
+      "Bash(curl -sL -o product-paneer.jpg \"https://images.unsplash.com/photo-1574653853027-5382a3d23a15?w=900&q=90&fit=crop\")",
+      "Bash(ffmpeg -version)"
+    ]
+  }
+}
